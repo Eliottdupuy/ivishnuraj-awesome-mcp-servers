@@ -31,12 +31,13 @@ The [Model Context Protocol (MCP)](https://modelcontextprotocol.io/) is an open 
 
 ## 💬 Communication & Workplace
 
-  * **[Slack](https://github.com/modelcontextprotocol/servers/tree/main/src/slack)** - Channel and thread context for team collaboration.
+  * **[BulkPublish](https://github.com/azeemkafridi/bulkpublish-api)** - Hosted MCP and API for AI-agent social media planning, review, scheduling, and batch publishing. See the [social media content skills](https://github.com/azeemkafridi/bulkpublish-api/tree/main/skills/social-media-content-skills) and [documentation](https://app.bulkpublish.com/docs).
   * **[Discord](https://github.com/modelcontextprotocol/servers/tree/main/src/discord)** - Interaction with Discord guilds and channels.
-  * **[Notion](https://www.google.com/search?q=https://github.com/michaelfester/mcp-notion)** - Real-time access to pages, tasks, and databases.
   * **[Linear](https://www.google.com/search?q=https://github.com/linear/mcp-server)** - Integration with Linear's issue tracking system.
   * **[Microsoft 365](https://www.google.com/search?q=https://github.com/modelcontextprotocol/servers/tree/main/src/m365)** - Graph API integration for Outlook, Excel, and Calendar.
-  * **[BulkPublish](https://github.com/azeemkafridi/bulkpublish-api)** - Hosted MCP and API for AI-agent social media planning, review, scheduling, and batch publishing. See the [social media content skills](https://github.com/azeemkafridi/bulkpublish-api/tree/main/skills/social-media-content-skills) and [documentation](https://app.bulkpublish.com/docs).
+  * **[Notion](https://www.google.com/search?q=https://github.com/michaelfester/mcp-notion)** - Real-time access to pages, tasks, and databases.
+  * **[Screenpipe](https://github.com/screenpipe/screenpipe/tree/main/packages/screenpipe-mcp)** - Search screen text and audio transcripts captured by a running Screenpipe instance through MCP. Source available under the Screenpipe Commercial License; configured cloud services and connected AI clients can send context off-device.
+  * **[Slack](https://github.com/modelcontextprotocol/servers/tree/main/src/slack)** - Channel and thread context for team collaboration.
 
 ## 🌐 Search & Web APIs
 
