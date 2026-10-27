@@ -48,6 +48,7 @@ The [Model Context Protocol (MCP)](https://modelcontextprotocol.io/) is an open 
   * **[Google Maps](https://github.com/modelcontextprotocol/servers/tree/main/src/google-maps)** - Location search and navigation capabilities.
   * **[Zapier](https://www.google.com/search?q=https://zapier.com/blog/mcp-server/)** - Connects AI agents to 6,000+ app automations.
   * **[Exa](https://github.com/exa-labs/exa-mcp-server)** - Neural search engine for high-quality web data retrieval.
+  * **[Robot Speed](https://github.com/robot-speed/mcp)** - SEO / AI visibility MCP. Free tools at \`https://www.robot-speed.com/api/mcp/free\`; full remote at \`/api/mcp\`.
 
 ## 📊 Data & Analytics
 
