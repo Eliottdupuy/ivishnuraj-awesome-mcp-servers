@@ -48,6 +48,10 @@ The [Model Context Protocol (MCP)](https://modelcontextprotocol.io/) is an open 
   * **[Zapier](https://www.google.com/search?q=https://zapier.com/blog/mcp-server/)** - Connects AI agents to 6,000+ app automations.
   * **[Exa](https://github.com/exa-labs/exa-mcp-server)** - Neural search engine for high-quality web data retrieval.
 
+## 📊 Data & Analytics
+
+  * **[Invokely MCP connector](https://github.com/estevecastells/invokely-mcp-connector)** - Local stdio connector for querying official statistics through Invokely's hosted service.
+
 ## 🤖 AI Frameworks & Orchestrators
 
   * **[LangChain](https://github.com/langchain-ai/langchain-mcp)** - Agent framework with built-in MCP server adapters.
