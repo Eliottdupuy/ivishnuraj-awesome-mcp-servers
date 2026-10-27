@@ -18,6 +18,7 @@ The [Model Context Protocol (MCP)](https://modelcontextprotocol.io/) is an open 
 
 ## 🛠️ Developer Tools & Infrastructure
 
+  * **[Agent Payment Node](https://github.com/nuanu-ai/agent-payment-node)** - Local macOS CLI and stdio MCP payments with foreground owner approval for signing.
   * **[GitHub](https://github.com/modelcontextprotocol/servers/tree/main/src/github)** - Repository management, PRs, and issue tracking.
   * **[GitLab](https://github.com/modelcontextprotocol/servers/tree/main/src/gitlab)** - Full GitLab API integration for projects and CI/CD.
   * **[Docker](https://www.google.com/search?q=https://github.com/appcypher/mcp-server-docker)** - Seamless container and compose stack management.
